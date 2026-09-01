@@ -296,12 +296,8 @@ Screenshots/
 
 ## Related Projects
 
-### Active Directory Help Desk Lab
+### [Active Directory Help Desk Lab](https://github.com/Navtej8000/Active-Directory-Help-Desk-Lab)
 Hands-on Windows Server and Active Directory lab covering user and group administration, Group Policy, account lockout troubleshooting, file permissions, PowerShell onboarding, and domain support.
 
-[View Active Directory Help Desk Lab](https://github.com/Navtej8000/Active-Directory-Help-Desk-Lab)
-
-### DNS, DHCP & Network Troubleshooting Lab
+### [DNS, DHCP & Network Troubleshooting Lab](https://github.com/Navtej8000/DNS-DHCP-Network-Troubleshooting-Lab)
 Networking lab covering DNS, DHCP, IP addressing, NAT, routing, VLAN/subnet concepts, connectivity testing, and common network troubleshooting scenarios.
-
-[View DNS, DHCP & Network Troubleshooting Lab](https://github.com/Navtej8000/DNS-DHCP-Network-Troubleshooting-Lab)
