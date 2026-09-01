@@ -86,11 +86,11 @@ Configured Microsoft Entra Self-Service Password Reset and successfully tested t
 
 ## 3. Windows Device Enrollment & Compliance
 
-Successfully enrolled a Windows endpoint into Microsoft Intune and verified that the device reached a compliant state.
+Successfully enrolled **INTUNE-CLIENT01** into Microsoft Intune, verified corporate device management, and confirmed that the Windows 11 endpoint reached a compliant state.
 
-![Intune device enrolled and compliant](./Screenshots/03-Intune-Enrollment-MDM/55-Intune-Devices-Clean-Compliant-State.png)
+![INTUNE-CLIENT01 managed and compliant](./Screenshots/06-Entra-Join-Windows-Management/55-Intune-Devices-Clean-Compliant-State.png)
 
-**Skills demonstrated:** Intune enrollment, MDM, Windows endpoint management, device compliance
+**Skills demonstrated:** Microsoft Intune, Windows 11 enrollment, corporate device management, MDM, device compliance, endpoint verification
 
 ---
 
